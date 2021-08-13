@@ -1,6 +1,6 @@
 # INSTRUCTIONS
 
-This is intended to be a simple guid to help people get Unreal Gold working natively on linux.
+This is intended to be a simple guide to help people get Unreal Gold working natively on linux.
 Here, you will find the links to download the necessary files.
 
 This guide assumes that you are installing Unreal Gold specifically, and you know how to acquire the game data.
@@ -11,6 +11,7 @@ wherever necessary.
 # CORE FILES
 
 [1] [Unreal Gold Patch 277i](https://oldunreal.com/patch/unreal/oldunreal/UnrealGoldPatch227i.7z)
+
 [2] [Compatibility Libraries](https://github.com/vide0hanz/unreal-gold/raw/master/NEW_unreal_libs_i386.zip)
 
 Due to licensing restrictions, the OldUnreal patch does not contain a Linux installation and can only be packaged as 
