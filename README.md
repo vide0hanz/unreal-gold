@@ -10,7 +10,7 @@ wherever necessary.
 
 # CORE FILES
 
-[1] [Unreal Gold Patch 277i](https://oldunreal.com/patch/unreal/oldunreal/UnrealGoldPatch227i.7z)
+[1] [Unreal Gold Patch 227i](https://oldunreal.com/patch/unreal/oldunreal/UnrealGoldPatch227i.7z)
 
 [2] [Compatibility Libraries](https://github.com/vide0hanz/unreal-gold/raw/master/NEW_unreal_libs_i386.zip)
 
@@ -20,11 +20,11 @@ the [Wine User's Guide](https://wiki.winehq.org/Wine_User%27s_Guide) for detaile
 
 - Step 1: Install Wine; It should be available in your distribution's repositories. 
 
-- Step 2: Extract the UnrealGoldPatch277i.7z file
+- Step 2: Extract the UnrealGoldPatch227i.7z file
 
 - Step 3: Open your terminal and run the following:
 
-`wine UnrealGoldPatch277i.exe`
+`wine UnrealGoldPatch227i.exe`
 
 - Step 4: Set the Destination Folder for the installation path, by default, "C:\UnrealGold" should be visible. Since
 we are using Wine, this path most likely does not exist so you must manually type it in as follows:
