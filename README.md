@@ -32,7 +32,7 @@ we are using Wine, this path most likely does not exist so you must manually typ
 `Z:\path\to\installation`
 
   Note the "Z:\" -- This can essentially be thought of as the "drive" which the installation will use in order to
-  install the .exe to a directory of our choice on our Linux file system, ie "Z:\~\Games\Unreal Gold" -- also note the
+  install the .exe to a directory of our choice on our Linux file system, ie "Z:\\~\Games\Unreal Gold" -- also note the
   backslashes; Windows uses backslashes for filepaths as opposed to forward slashes. 
 
 - Step 5: Be sure to check the box for "Linux native files", then install as usual. Once the installation has finished, you should now have a directory which contains the linux binaries in System.
