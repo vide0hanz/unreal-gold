@@ -4,9 +4,7 @@ This is intended to be a simple guide to help people get Unreal Gold working nat
 Here, you will find the links to download the necessary files.
 
 This guide assumes that you are installing Unreal Gold specifically, and you know how to acquire the game data.
-Otherwise, the instructions are largely the same regardless of the version you chose to install. This guide also
-assumes that you are a relatively new user and are unfamiliar with certain concepts that may be common knowledge among more experienced users, such as how to use Wine and edit shell scripts. As such, I will try to include helpful links
-wherever necessary.
+Otherwise, the instructions are largely the same regardless of the version you chose to install.
 
 # CORE FILES
 
