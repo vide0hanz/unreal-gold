@@ -4,7 +4,7 @@ This repo is intended to provide an easy, automatic way for Unreal/Unreal Gold t
 
 Owning the game on GOG is not strictly required. You may proivde your own Unreal setup EXE and use that if you prefer, but `innoextract` may not work in this case. Seek out other alternatives for extracting .EXE files, otherwise use Wine.
 
-If you already have the game data extracted elsewhere, you can simmply extract the `unreal-linux.tar.bz2` archive on top of it.
+If you already have the game data extracted elsewhere, you can simply extract the `unreal-linux.tar.bz2` archive on top of it.
 
 # Dependencies
 
