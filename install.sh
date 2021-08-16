@@ -11,4 +11,4 @@ mv app/* .
 tar vvxf ${patch}
 
 #cleanup
-rm -rf unreal_gold app tmp && echo "installation comple! Remember to edit the unreal-linux script accordingly, and place it in your PATH"
+rm -rf unreal_gold app tmp && echo "installation comple! Remember to edit the unreal-linux script accordingly, and place it in your $PATH"
