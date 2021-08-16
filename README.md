@@ -22,7 +22,7 @@ If you already have the game data extracted elsewhere, you can simply extract th
 
 1. The unreal-linux.tar.bz2 is an archive of all of the patched files that are included in the OldUnreal 227i EXE. It was necessary to distribute the patch this way due to license restrictions imposed by Epic which did not grant OldUnreal permission to distribute a Linux installer. All I have done is merely extracted the patched files and Linux binaries, libs, etc. and archived them here for ease of use. Additionally, I have included a working .ini file as well as a slightly modified version of LibSDL1.2 which should, at the very least, not screw with your desktop resolution and automatically detect your preferred monitor for the game to run on if using a multihead seutp. 
 
-2. The unreal-gold.sh is a helper script to launch the game, intended to be placed in your $PATH for ease of use. You must edit the filepath for $gamedir in order for it to function correctly. 
+2. The unreal-gold.sh is a helper script to launch the game, intended to be placed in your $PATH for ease of use. You must edit the filepath for $GAMEDIR in order for it to function correctly. 
 
 3. The install.sh script is self explanatory.
 
